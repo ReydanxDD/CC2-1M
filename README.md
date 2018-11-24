@@ -17,3 +17,5 @@ MorseCode - This code is the converter of English to Morse code and vice versa.
 Stars - This code will display a pattern according to the number inputed.
 
 StudentInfo - This code will ask the student info and displays it.
+
+Hangman - This code is for the hangman guessing game.
