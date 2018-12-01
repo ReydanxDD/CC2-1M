@@ -19,3 +19,6 @@ Stars - This code will display a pattern according to the number inputed.
 StudentInfo - This code will ask the student info and displays it.
 
 Hangman - This code is for the hangman guessing game.
+
+MultiplicationTable - This code displays the multiplication table depending on the row and column you inputed.
+
