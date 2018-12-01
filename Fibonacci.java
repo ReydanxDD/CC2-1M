@@ -1,13 +1,12 @@
+package Fibonacci;
+
 import java.util.Scanner;
 
-public class Fibonacci {
-
-    public static void main(String args[]) {
-        System.out.print("Enter N: ");
-        Scanner sc = new Scanner(System.in);
-        long n = sc.nextLong();
-        System.out.println(fib(n));
-    }
+/**
+ *
+ * @author U303user
+ */
+class Fibonacci {
 
     static long fib(long n) {
 
@@ -15,5 +14,12 @@ public class Fibonacci {
             return n;
         }
         return fib(n - 1) + fib(n - 2);
+    }
+
+    public static void main(String args[]) {
+        System.out.print("Enter N: ");
+        Scanner sc = new Scanner(System.in);
+        long n = sc.nextLong();
+        System.out.println(fib(n));
     }
 }
