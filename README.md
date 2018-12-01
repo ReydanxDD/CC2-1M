@@ -22,3 +22,10 @@ Hangman - This code is for the hangman guessing game.
 
 MultiplicationTable - This code displays the multiplication table depending on the row and column you inputed.
 
+Calculator - This code is a simple calculator.
+
+CaesarCipher - This code is the code for Caesar Cipher logic.
+
+BubbleSort - This code sorts the numbers you inputed to ascending order.
+
+BinaryConversion - This code converts binary to decimal, octa and hexadecimal.
